@@ -1,6 +1,9 @@
 # Super Lila
 
 ## Demonstração
+
+**Desenvolvedora: Gabrielle Oliveira**
+
 ![inicial](https://github.com/user-attachments/assets/92359c22-4779-49cc-8813-8c5d9823b9f0)
 
 **Desenvolvedora: Gabrielle Oliveira**
