@@ -6,8 +6,6 @@
 
 ![inicial](https://github.com/user-attachments/assets/92359c22-4779-49cc-8813-8c5d9823b9f0)
 
-**Desenvolvedora: Gabrielle Oliveira**
-
 "Super Lila" é um jogo de plataforma 2D criado com Pygame, com inspiração em 
 clássicos como Super Mario. Controle Lila em sua jornada por diversos níveis, 
 superando obstáculos e coletando itens.
